@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时状态：浏览器 profile（含登录态 cookie）、账号表、导出文件
+data/
+raw/
+
+# 产物
+out/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 测试临时目录
+.migtest-*/
+migtest-*/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
